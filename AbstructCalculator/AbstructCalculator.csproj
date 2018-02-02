@@ -42,6 +42,11 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Calculator.cs" />
+    <Compile Include="CalculatorFloat.cs" />
+    <Compile Include="CalculatorFloatInterface.cs" />
+    <Compile Include="CalculatorInt.cs" />
+    <Compile Include="InterfaceCalculator.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
